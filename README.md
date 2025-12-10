@@ -1,4 +1,3 @@
-# tarun-kachhi
 # Hi, I'm Tarun 👋
 
 🎨 Graphic Designer • 🖥️ Aspiring Dev  
