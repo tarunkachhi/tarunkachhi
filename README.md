@@ -1,4 +1,4 @@
-# tarun-kachhi / README.md
+# tarun-kachhi
 # Hi, I'm Tarun 👋
 
 🎨 Graphic Designer • 🖥️ Aspiring Dev  
