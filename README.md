@@ -23,6 +23,18 @@ tarun = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  ![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkachhi&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkachhi&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🛠️ Tech & Tools
 
 **Languages & OS**
@@ -36,37 +48,6 @@ tarun = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Affinity](https://img.shields.io/badge/Affinity-1B72BE?style=for-the-badge&logo=affinity&logoColor=white)
-
----
-
-## 🎯 What I'm Up To
-
-- 🔭 Currently leveling up my **C++ & Python** skills
-- 🐧 Exploring the world of **Linux** and open source
-- 🎨 Crafting beautiful UIs and visuals with **Figma & Canva**
-- 📚 Surviving **B.Tech** one semester at a time 😅
-- 🌱 Always on the hunt for the next cool thing to learn
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkachhi&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunkachhi&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌈 Fun Facts About Me
-
-- 🖥️ I speak both **human** and **C++** (sometimes C++ is easier 😂)
-- 🎨 I believe **good design** is just as important as good code
-- 🐧 Linux is not just an OS — it's a lifestyle
-- ☕ Fueled by curiosity (and probably coffee)
 
 ---
 
